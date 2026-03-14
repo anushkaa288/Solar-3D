@@ -1,1 +1,1 @@
-# Solar-3D
+# 3D Solar-System
